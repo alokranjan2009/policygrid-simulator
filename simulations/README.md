@@ -1,0 +1,1 @@
+## PolicyGrid Simulation Engine (Python)This Python module models a conceptual system of:- Distributed network nodes- Authority transfer protocols- Consent and ethics validation- Rehabilitation and recovery cycles⚠️ Disclaimer:This simulation is for research, education, and system-design modeling only.It does NOT control real-world systems or entities.
